@@ -1,4 +1,4 @@
-![Avatar](ava.jpg)
+![Avatar](https://raw.githubusercontent.com/Vitali86/rsschool-cv/cbca7124594f0e959743dc846a9179b289fb7c54/ava.jpg) 
 1. #### Full Name
 # Vital Kabantsou 
 
