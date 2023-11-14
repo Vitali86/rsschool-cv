@@ -1,1 +1,1 @@
-https://Vitali86.github.io/rsschool-cv/cv
+https://Vitali86.github.io/rsschool-cv/
